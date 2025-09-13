@@ -13,6 +13,9 @@ The dataset used in this project is included in the repository (`tmdb_5000_movie
 - Cosine similarity to recommend movies
 - Simple and effective recommendation pipeline
 
+📊 Output Example
+Input: Avatar
+Recommended: Guardians of the Galaxy, John Carter, Star Wars...
 
 ## ⚙️ Installation
 ```bash
@@ -26,3 +29,4 @@ Run all the cells step by step.
 
 
 Search for a movie title → get recommended movies instantly!
+
