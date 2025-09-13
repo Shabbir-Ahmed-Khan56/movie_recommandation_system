@@ -6,6 +6,14 @@ It suggests similar movies based on content (genres, keywords, etc.).
 ## 📂 Dataset
 The dataset used in this project is included in the repository (`tmdb_5000_movies.csv and tmdb_5000_credits`).
 
+
+## 🚀 Features
+- Preprocessing of dataset
+- Text vectorization using CountVectorizer
+- Cosine similarity to recommend movies
+- Simple and effective recommendation pipeline
+
+
 ## ⚙️ Installation
 ```bash
 pip install pandas numpy scikit-learn nltk
@@ -15,5 +23,6 @@ pip install pandas numpy scikit-learn nltk
 Open Movie_Recommendation.ipynb in Jupyter Notebook or VS Code.
 
 Run all the cells step by step.
+
 
 Search for a movie title → get recommended movies instantly!
