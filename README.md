@@ -15,6 +15,7 @@ The dataset used in this project is included in the repository (`tmdb_5000_movie
 
 📊 Output Example
 Input: Avatar
+
 Recommended: Guardians of the Galaxy, John Carter, Star Wars...
 
 ## ⚙️ Installation
@@ -29,4 +30,5 @@ Run all the cells step by step.
 
 
 Search for a movie title → get recommended movies instantly!
+
 
